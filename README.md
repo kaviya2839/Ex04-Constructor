@@ -26,6 +26,7 @@ End the program
  
  ## Program:
  python
+ ```
 using System;
 public class Employee
 {
@@ -73,7 +74,7 @@ class TestEmployee
 
     }
 }
-
+```
 ## Output:
  ![exp 4 output](https://github.com/Leann4468/Ex04-Constructor/assets/121165979/8b3b5019-7832-40b1-b369-4d23287e2e5c)
 
